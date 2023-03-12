@@ -2,7 +2,7 @@
 
 Ongoing research in DeFi. 
 
-3/11/2023 - Impermanent Loss on Simplified AMM [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/impermanent-loss/impermanent-loss.ipynb)
+3/11/2023 - Impermanent Loss on Simplified AMM [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/impermanent-loss/impermanent-loss-simple.ipynb)
    
 3/11/2023 - Price Aggregation (WIP) [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/price-aggregation/price-aggregators.ipynb)
 
