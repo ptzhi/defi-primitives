@@ -6,7 +6,7 @@ Ongoing research in DeFi.
    
 3/11/2023 - Price Aggregation (WIP) [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/price-aggregation/price-aggregators.ipynb)
 
-3/12/2023 - Kimchi Premium (WIP) [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/price-aggregation/kimchi-premium.ipynb)
+3/14/2023 - Kimchi Premium (WIP) [View Notebook](https://nbviewer.org/github/ptzhi/defi-primitives/blob/main/notebooks/kimchi-premium/kimchi-premium.ipynb)
 ## Instructions
 
 GitHub viewer does not render interactive Plotly charts. Suggest:
